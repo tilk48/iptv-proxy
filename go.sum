@@ -309,6 +309,10 @@ github.com/subosito/gotenv v1.2.0 h1:Slr1R9HxAlEKefgq5jn9U+DnETlIUa6HfgEzj0g5d7s
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
 github.com/tellytv/go.xtream-codes v0.0.0-20220204001149-59925bc76764 h1:0ndlBWeI4p3jyzr5KWrtOVQsCimAUBo86/svYFDTgVo=
 github.com/tellytv/go.xtream-codes v0.0.0-20220204001149-59925bc76764/go.mod h1:8fbwWl4BCtFxxEhTTAqzjN11aC5TKWdc3yHlH/iXORo=
+github.com/tilk48/go.xtream-codes v0.0.0-20250307173555-422caec8f08c h1:+QnJDgfiqARIqhRxcfVR4VpkoVwN8GCEFNFCTK8mskI=
+github.com/tilk48/go.xtream-codes v0.0.0-20250307173555-422caec8f08c/go.mod h1:7da4e4OAmw1VAsj8JG1Rye+hBUlSzQKivbuaqtaxfDk=
+github.com/tilk48/go.xtream-codes v0.0.0-20250307173741-953d34244457 h1:8rsg5vlnecNWqBSBMASiS6ZxP4utN2BWHRgkzUkFBG4=
+github.com/tilk48/go.xtream-codes v0.0.0-20250307173741-953d34244457/go.mod h1:7da4e4OAmw1VAsj8JG1Rye+hBUlSzQKivbuaqtaxfDk=
 github.com/twitchyliquid64/golang-asm v0.15.1 h1:SU5vSMR7hnwNxj24w34ZyCi/FmDZTkS4MhqMhdFk5YI=
 github.com/twitchyliquid64/golang-asm v0.15.1/go.mod h1:a1lVb/DtPvCB8fslRZhAngC2+aY1QWCk3Cedj/Gdt08=
 github.com/ugorji/go/codec v0.0.0-20181209151446-772ced7fd4c2/go.mod h1:VFNgLljTbGfSG7qAOspJ7OScBnGdDN/yBr0sguwnwf0=
