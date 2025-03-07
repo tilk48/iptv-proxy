@@ -30,6 +30,6 @@ jobs:
         uses: goreleaser/goreleaser-action@v2
         with:
           version: latest
-          args: release --skip-sign --clean
+          args: release --skip=sign --clean
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
